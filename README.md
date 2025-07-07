@@ -1,2 +1,2 @@
-# Luxury.com
-Official website for Luxury.com — built with HTML, CSS, and JavaScript
+# LuxuriousMahol.com
+Official website for LuxuriousMahol.com — built with HTML, CSS, and JavaScript
